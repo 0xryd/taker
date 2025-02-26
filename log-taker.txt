@@ -641,3 +641,15 @@
 2/26/2025 | 12:37:01 PM | INFO | Trying to check user miner status... 
 2/26/2025 | 12:37:02 PM | INFO | Last mining time: 2/25/2025, 12:37:15 PM
 2/26/2025 | 12:37:02 PM | WARN | Mining already started, next mining time is: 2/26/2025, 12:37:15 PM
+2/26/2025 | 4:24:28 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/26/2025 | 4:24:29 PM | INFO | Start process for wallet 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+2/26/2025 | 4:24:29 PM | INFO | Trying To Login for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+2/26/2025 | 4:24:30 PM | INFO | Login successful... 
+2/26/2025 | 4:24:30 PM | INFO | Trying to check user info... 
+2/26/2025 | 4:24:31 PM | INFO | User ID: 156296535 | Twitter: @ryandaxyz | Total Points: 218680 
+2/26/2025 | 4:24:31 PM | INFO | Trying to check user miner status... 
+2/26/2025 | 4:24:32 PM | INFO | Last mining time: 2/25/2025, 12:37:15 PM
+2/26/2025 | 4:24:32 PM | INFO | Trying to start Mining for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+2/26/2025 | 4:24:32 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+2/26/2025 | 4:24:32 PM | INFO | Trying to activate mining on-chain for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+2/26/2025 | 4:24:44 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x212d7b9096e9116adf3a51f26acd640ca16446241d76904a360b336b30c21cc1 
