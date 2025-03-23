@@ -1999,3 +1999,12 @@
 3/23/2025 | 4:21:29 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/23/2025 | 4:21:29 PM | INFO | Trying to activate mining on-chain for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
 3/23/2025 | 4:21:41 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xcdcfb583fea015cfabd10b19e625289688ab4b4ff60dd62106a0fd64dd9088a6 
+3/23/2025 | 8:19:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/23/2025 | 8:19:01 PM | INFO | Start process for wallet 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+3/23/2025 | 8:19:01 PM | INFO | Trying To Login for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+3/23/2025 | 8:19:02 PM | INFO | Login successful... 
+3/23/2025 | 8:19:02 PM | INFO | Trying to check user info... 
+3/23/2025 | 8:19:03 PM | INFO | User ID: 156296535 | Twitter: @ryandaxyz | Total Points: 722680 
+3/23/2025 | 8:19:03 PM | INFO | Trying to check user miner status... 
+3/23/2025 | 8:19:03 PM | INFO | Last mining time: 3/23/2025, 4:21:36 PM
+3/23/2025 | 8:19:03 PM | WARN | Mining already started, next mining time is: 3/24/2025, 4:21:36 PM
