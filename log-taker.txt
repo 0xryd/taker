@@ -2574,3 +2574,15 @@
 4/2/2025 | 8:21:16 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:21:20 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:21:20 PM | ERROR | Failed to retrieve nonce for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+4/3/2025 | 1:36:47 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:36:47 AM | INFO | Start process for wallet 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+4/3/2025 | 1:36:48 AM | INFO | Trying To Login for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+4/3/2025 | 1:36:48 AM | INFO | Login successful... 
+4/3/2025 | 1:36:48 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:36:49 AM | INFO | User ID: 156296535 | Twitter: @ryandaxyz | Total Points: 914680 
+4/3/2025 | 1:36:49 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:36:49 AM | INFO | Last mining time: 4/1/2025, 12:40:42 PM
+4/3/2025 | 1:36:49 AM | INFO | Trying to start Mining for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+4/3/2025 | 1:36:50 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:36:50 AM | INFO | Trying to activate mining on-chain for wallet: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26 
+4/3/2025 | 1:36:55 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8bec317e0bc89c88064d22229685c8eac60bb3ed4b64ae21096aaec3b5cdacd4 
